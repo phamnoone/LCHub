@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/phamnoone/LCHub/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/phamnoone/LCHub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/phamnoone/LCHub/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/phamnoone/LCHub/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
@@ -70,4 +71,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/phamnoone/LCHub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/phamnoone/LCHub/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/phamnoone/LCHub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
