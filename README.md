@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/phamnoone/LCHub/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/phamnoone/LCHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/phamnoone/LCHub/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/phamnoone/LCHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/phamnoone/LCHub/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/phamnoone/LCHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
