@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/phamnoone/LCHub/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/phamnoone/LCHub/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/phamnoone/LCHub/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phamnoone/LCHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/phamnoone/LCHub/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/phamnoone/LCHub/tree/master/0098-validate-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/phamnoone/LCHub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
