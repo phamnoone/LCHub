@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/phamnoone/LCHub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/phamnoone/LCHub/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/phamnoone/LCHub/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/phamnoone/LCHub/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/phamnoone/LCHub/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
