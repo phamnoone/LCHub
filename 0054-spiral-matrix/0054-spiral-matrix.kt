@@ -13,6 +13,7 @@ class Solution {
         var state = 0
 
         while(nums.size < size) {
+            // Left to Right
             when (state) {
                 0 -> {
                     nums.add(matrix[i][j++]) 
