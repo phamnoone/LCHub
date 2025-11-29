@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/phamnoone/LCHub/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/phamnoone/LCHub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/phamnoone/LCHub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/phamnoone/LCHub/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/phamnoone/LCHub/tree/master/0057-insert-interval) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/phamnoone/LCHub/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/phamnoone/LCHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
 | [0647-palindromic-substrings](https://github.com/phamnoone/LCHub/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/phamnoone/LCHub/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/phamnoone/LCHub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
