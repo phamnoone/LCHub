@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/phamnoone/LCHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/phamnoone/LCHub/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/phamnoone/LCHub/tree/master/0128-longest-consecutive-sequence) |
+| [0322-coin-change](https://github.com/phamnoone/LCHub/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/phamnoone/LCHub/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/phamnoone/LCHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
+| [0322-coin-change](https://github.com/phamnoone/LCHub/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/phamnoone/LCHub/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/phamnoone/LCHub/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/phamnoone/LCHub/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
