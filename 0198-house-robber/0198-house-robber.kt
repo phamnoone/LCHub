@@ -12,6 +12,6 @@ class Solution {
             moneys[i] = max(moneys[i-2], moneys[i-3]) + nums[i]
         }
 
-        return moneys.max()
+        return max(moneys[nums.size -1], moneys[nums.size -2])
     }
 }
