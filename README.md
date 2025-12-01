@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/phamnoone/LCHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/phamnoone/LCHub/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/phamnoone/LCHub/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/phamnoone/LCHub/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/phamnoone/LCHub/tree/master/0322-coin-change) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/phamnoone/LCHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/phamnoone/LCHub/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/phamnoone/LCHub/tree/master/0079-word-search) |
 | [0647-palindromic-substrings](https://github.com/phamnoone/LCHub/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/phamnoone/LCHub/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/phamnoone/LCHub/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/phamnoone/LCHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/phamnoone/LCHub/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/phamnoone/LCHub/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/phamnoone/LCHub/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/phamnoone/LCHub/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
