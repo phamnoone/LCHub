@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/phamnoone/LCHub/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/phamnoone/LCHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/phamnoone/LCHub/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/phamnoone/LCHub/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/phamnoone/LCHub/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/phamnoone/LCHub/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/phamnoone/LCHub/tree/master/0647-palindromic-substrings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/phamnoone/LCHub/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/phamnoone/LCHub/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/phamnoone/LCHub/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/phamnoone/LCHub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
