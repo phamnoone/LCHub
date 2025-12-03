@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/phamnoone/LCHub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/phamnoone/LCHub/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/phamnoone/LCHub/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phamnoone/LCHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/phamnoone/LCHub/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/phamnoone/LCHub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/phamnoone/LCHub/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/phamnoone/LCHub/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/phamnoone/LCHub/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
