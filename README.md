@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/phamnoone/LCHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/phamnoone/LCHub/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/phamnoone/LCHub/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/phamnoone/LCHub/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/phamnoone/LCHub/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/phamnoone/LCHub/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/phamnoone/LCHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/phamnoone/LCHub/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/phamnoone/LCHub/tree/master/0146-lru-cache) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/phamnoone/LCHub/tree/master/0146-lru-cache) |
 | [0933-number-of-recent-calls](https://github.com/phamnoone/LCHub/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/phamnoone/LCHub/tree/master/0933-number-of-recent-calls) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/phamnoone/LCHub/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
